@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "revision": 1795069438133,
+  "revision": 1795069531290,
   "config": {
     "rooms": {
       "gate": {
@@ -381,34 +381,34 @@
     },
     "enemies": {
       "elite_hellcat": {
-        "hp": 100.0,
-        "damage": 18.0,
-        "speed": 85.0
+        "hp": 100,
+        "damage": 18,
+        "speed": 85
       },
       "elite_skeleton": {
-        "hp": 120.0,
-        "damage": 16.0,
-        "speed": 50.0
+        "hp": 120,
+        "damage": 16,
+        "speed": 50
       },
       "ghost": {
-        "hp": 18.0,
-        "damage": 8.0,
-        "speed": 45.0
+        "hp": 18,
+        "damage": 8,
+        "speed": 45
       },
       "gravekeeper": {
-        "hp": 420.0,
-        "damage": 20.0,
-        "speed": 45.0
+        "hp": 420,
+        "damage": 20,
+        "speed": 45
       },
       "hellcat": {
-        "hp": 24.0,
-        "damage": 12.0,
-        "speed": 70.0
+        "hp": 24,
+        "damage": 12,
+        "speed": 70
       },
       "skeleton": {
-        "hp": 30.0,
-        "damage": 10.0,
-        "speed": 40.0
+        "hp": 30,
+        "damage": 10,
+        "speed": 40
       }
     },
     "drops": {
@@ -422,11 +422,11 @@
     "characters": {
       "hero": {
         "max_hp": 100,
-        "max_speed": 120.0,
-        "jump_height": 72.0,
+        "max_speed": 120,
+        "jump_height": 72,
         "jump_apex_time": 0.4,
-        "dash_distance": 64.0,
-        "ultimate_damage_mult": 5.0
+        "dash_distance": 64,
+        "ultimate_damage_mult": 5
       }
     }
   }
